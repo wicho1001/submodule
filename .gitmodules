@@ -1,3 +1,6 @@
 [submodule "node.js"]
 	path = node.js
 	url = https://github.com/wicho1001/node.js.git
+[submodule "FORMULA-DEL-CHICHARRONERO"]
+	path = FORMULA-DEL-CHICHARRONERO
+	url = https://github.com/wicho1001/FORMULA-DEL-CHICHARRONERO
